@@ -3,7 +3,7 @@
  and just buy them on one click.
  
 # Owner
-this holds all the code that manages the administartion part, where owner add new products to the database
+this holds all the code that manages the administartion part, where owner adds new products to the database
 
 # Customer
 this holds all the code that makes a code to shop. 
