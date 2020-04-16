@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Add Products</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+    </head>
+    <body>
+        <form method ="POST" action="addproduct.php">
+            <table border="1">
+                <tr>
+                    <td>Product Code</td>
+                    <td><input type="text" name="txtproductcode"/></td>
+                </tr>
+                <tr>
+                    <td>Product Name</td>
+                    <td><input type="text" name="txtproductname"/></td>
+                </tr>
+                <tr>
+                    <td>Price</td>
+                    <td><input type="text" name="txtprice"/></td>
+                </tr>
+                <tr>
+                    <td>Stocks</td>
+                    <td><input type="text" name="txtstocks"/></td>
+                </tr>
+                <tr>
+                    <td><input type="submit" name="btnadd" value="ADD"/></td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>
