@@ -13,6 +13,7 @@ this holds all the code that makes a code to shop.
 2) AngularJS (framework)
 3) HTML
 4) PHP
+5) iframes
 
 # database.py 
 this has all the mysql database stuff!
