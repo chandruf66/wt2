@@ -15,5 +15,5 @@ this holds all the code that makes a code to shop.
 4) PHP
 5) iframes
 
-# database.py 
+# database.sql 
 this has all the mysql database stuff!
